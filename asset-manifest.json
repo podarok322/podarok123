@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/podarok123/static/css/main.829fda83.css",
-    "main.js": "/podarok123/static/js/main.966db914.js",
+    "main.css": "/podarok123/static/css/main.e267d6fe.css",
+    "main.js": "/podarok123/static/js/main.0f43d157.js",
     "index.html": "/podarok123/index.html",
-    "main.829fda83.css.map": "/podarok123/static/css/main.829fda83.css.map",
-    "main.966db914.js.map": "/podarok123/static/js/main.966db914.js.map"
+    "main.e267d6fe.css.map": "/podarok123/static/css/main.e267d6fe.css.map",
+    "main.0f43d157.js.map": "/podarok123/static/js/main.0f43d157.js.map"
   },
   "entrypoints": [
-    "static/css/main.829fda83.css",
-    "static/js/main.966db914.js"
+    "static/css/main.e267d6fe.css",
+    "static/js/main.0f43d157.js"
   ]
 }
